@@ -7,7 +7,6 @@ import math
 #voce devera mudar a equacao  aqui nesta funcao 
 def Funcao(x):						   #funcao que encontra o valor de f() para qualquer numero enviado como argumento (a,b ou x)
 	return x**3 -x -2 #<-- muda a equacao AQUI 
-#fim da funcao Funcao
 
 #funcao realiza o calculo da bissecao
 def Bissecao(a,b):
