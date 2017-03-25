@@ -14,7 +14,6 @@ def Bissecao(a,b):
 	er = 0.001                        #margem de erro a ser calculado, o erro deve ser mudado AQUI
 	vt =[0,0,0,0,0,0,0]                #cria lista com elementos a serem calculados
 	
-	#["vt[0]=k","vt[1]=x","vt[2]=a","vt[3]=b","vt[4]=f(x)","vt[5]=f(a)","vt[6]=f(b)"] #apenas para auxilo visual
 	
 	#primeira iteracao, fora do loop
 	vt[0]=1				               #valor da primeira iteracao
